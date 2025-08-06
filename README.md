@@ -1,6 +1,5 @@
 # Visual-Based E-Commerce Fashion Recommendation System
 A Deep Learning-based Fashion Recommendation System utilizing the ResNet50 architecture. It provides fashion recommendations based on visual similarity.  
-This project was completed as part of Samsung's Applied Data Science Course.
 
 ## Dataset
 
